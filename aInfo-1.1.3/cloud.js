@@ -1,4 +1,5 @@
-$(document).ready(function(){
+(function(window) {
 	
-	alert(1);
-});
+	alert("123");
+	
+}) (window)
